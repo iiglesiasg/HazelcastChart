@@ -13,10 +13,6 @@ icon: http://hazelcast.com/images/logos/Hazelcast-IMDG-Logo-Orange_Dark_Icon_200
 sources:
 - https://github.com/hazelcast/hazelcast
 maintainers:
-- name: leszko
-  email: rafal@hazelcast.com
-- name: googlielmo
-  email: guglielmo@hazelcast.com
-- name: mesutcelik
-  email: mesut@hazelcast.com
+- name: inigo
+  email: iiglesig@everis.com
 engine: gotpl
