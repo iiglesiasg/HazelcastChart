@@ -1,0 +1,2 @@
+# HazelcastChart
+Helm chart hazelcast
